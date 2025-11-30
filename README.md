@@ -68,3 +68,28 @@ This dashboard enables stakeholders to:
 ---
 
 ## 📁 Repository Structure
+
+`
+📦 Soft-Drinks-Dashboard/
+├── dashboard.png                          # Main dashboard image for README
+├── README.md                              # Project documentation
+├── Product Visibility Challenge Data.csv  # Cleaned dataset used for analysis
+├── Soft Drinks Dashboard.pdf              # Exported static version of the dashboard
+├── dashboard.jpg                          # Alternate dashboard image (lower resolution)
+└── soft drinks nervus challenge.pbix      # Power BI source file
+`
+
+---
+
+## 🙌 Author
+
+Gyanankur Baruah  
+Data storyteller | Dashboard designer | Hackathon finalist  
+Connect on LinkedIn
+
+---
+
+## 📜 License
+
+This project is submitted as part of the NervsData challenge. For reuse or adaptation, please credit the author and the challenge organizers.
+`
