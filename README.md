@@ -1,6 +1,6 @@
 # 🥤 Soft Drinks Dashboard – NervsData Challenge Submission
 
-![Soft Drinks Dashboard](dashboard.png)
+![Soft Drinks Dashboard](dashboard.jpg)
 
 This repository contains the Power BI dashboard created by **Gyanankur Baruah** for the **NervsData Product Visibility Challenge**. The dashboard visualizes soft drink brand performance across various outlet types and geographic locations, highlighting product display patterns, packaging preferences, and stock conditions.
 
